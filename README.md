@@ -4,9 +4,8 @@ A small python module that provides functionalities to generate and re-chunk inp
 
 ## Resources
 
-[![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
-[![codecov](https://codecov.io/gh/arashmad/rechunk-zarr-ds/graph/badge.svg?token=Z8Aabt3Yr0)](https://codecov.io/gh/arashmad/rechunk-zarr-ds)
+[![Cargo](https://img.shields.io/badge/Cargo-latest-yellow)](https://doc.rust-lang.org/cargo/index.html)
+[![Rust](https://img.shields.io/badge/Rust-latest-green)](https://www.rust-lang.org/tools/install)
 
 Poetry helps you declare, manage and install dependencies of Python projects,
 ensuring you have the right stack everywhere.
@@ -19,14 +18,10 @@ Once you installed the Rust Cargo package manager, follow the steps below:
 
 ```bash
 # Download the source code
-git clone https://github.com/arashmad/rechunk_zarr_ds_rust.git
+git clone git@github.com:arashmad/rechunk_zarr_ds_rust.git
 # Install dependencies
-cd rechunk-zarr-ds
-poetry install
-# Activate virtual environment
-poetry shell
-# Test the code and installation
-make lint && make test
+cd rechunk_zarr_ds_rust
+cargo init
 ```
 
 ## Run
