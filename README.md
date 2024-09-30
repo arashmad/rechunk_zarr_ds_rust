@@ -1,6 +1,6 @@
 # ReChunk-Zarr-DS using Rust
 
-A small python module that provides functionalities to generate and re-chunk input zarr files.
+A small rust module that provides functionality to re-chunk input zarr files.
 
 ## Resources
 
