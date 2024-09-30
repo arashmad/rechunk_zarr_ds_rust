@@ -18,7 +18,7 @@ Once you installed the Rust Cargo package manager, follow the steps below:
 
 ```bash
 # Download the source code
-git clone git@github.com:arashmad/rechunk_zarr_ds_rust.git
+git clone https://github.com/arashmad/rechunk_zarr_ds_rust.git
 # Install dependencies
 cd rechunk_zarr_ds_rust
 cargo init
