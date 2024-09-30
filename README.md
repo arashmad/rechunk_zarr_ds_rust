@@ -7,8 +7,7 @@ A small rust module that provides functionality to re-chunk input zarr files.
 [![Cargo](https://img.shields.io/badge/Cargo-latest-yellow)](https://doc.rust-lang.org/cargo/index.html)
 [![Rust](https://img.shields.io/badge/Rust-latest-green)](https://www.rust-lang.org/tools/install)
 
-Poetry helps you declare, manage and install dependencies of Python projects,
-ensuring you have the right stack everywhere.
+Cargo is a package manager that helps us to declare, manage and install dependencies of Rust projects, ensuring you have the right stack everywhere.
 
 ## Installation
 
